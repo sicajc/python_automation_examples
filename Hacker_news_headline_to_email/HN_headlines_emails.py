@@ -50,7 +50,7 @@ SERVER = 'smtp.gmail.com' #"your smtp server"
 PORT = 587 #your port number
 FROM = 'jackyyeh1999@gmail.com' #your sender email address
 TO = 'jackyyeh1999@gmail.com' #your receiver email address
-PASS = '5456575753575651' #Your receiver password
+PASS = '******' #Your receiver password
 
 
 #Message Body
