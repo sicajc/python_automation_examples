@@ -20,7 +20,6 @@ content = ''
 
 # Extracting Hacker News Stories
 
-
 def extract_news(url):
     print('Extracting Hacker News Stories.....')
     cnt = ''  # Placeholder Used to hold the email too
